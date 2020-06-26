@@ -11,7 +11,7 @@ A web-based banking application for a fictional currency. It includes features t
 
 
 
-Our GitHub Repository can be found [here.](https://github.com/tylerchinen/SeaCode-Bank-WebApp).
+Our GitHub Repository can be found [here](https://github.com/tylerchinen/SeaCode-Bank-WebApp).
 
 ## User Guide
 
