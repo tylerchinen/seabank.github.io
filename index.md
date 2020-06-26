@@ -15,11 +15,33 @@ Our GitHub Repository can be found [here.](https://github.com/tylerchinen/SeaCod
 
 ## User Guide
 
-#### Landing Page
-<img class="ui left floated image" src="/images/m3/landing-m3.JPG" width="600">
+#### Home Page & Cookies
+<img class="ui left floated image" src="/images/m3/seabank-home.PNG" width="600">
 <p>
-When you first visit our site you are taken to the landing page, where you can read a brief description about Manoa Study Hub as well as some of the functionalities that our site can provide. From this page you are able to use the Login button which presents you with a dropdown menu that allows you to either sign in or sign up for a new account.
+When you first visit our site you are taken to the home page, where you can read a brief description about Manoa Study Hub as well as some of the functionalities that our site can provide. From this page you are able to use the Login button which presents you with a dropdown menu that allows you to either sign in or sign up for a new account.
 </p>
+
+#### Sign-In Page
+
+
+#### Sign-Up Page & Terms and Conditions
+
+
+#### Dashboard
+
+
+##### Deposit
+
+
+##### Withdraw
+
+
+##### Wire Funds
+
+
+##### Account History
+
+
 
 ## Contact Us
 
