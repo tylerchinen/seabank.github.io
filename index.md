@@ -34,16 +34,16 @@ When you first visit our site you are taken to the home page, where you can read
 #### Dashboard
 <img class="ui left floated image" src="seabank-dashboard.PNG" width="600">
 
-##### Deposit
+- #### Deposit
 
 
-##### Withdraw
+- #### Withdraw
 
 
-##### Wire Funds
+- #### Wire Funds
 
 
-##### Account History
+- #### Account History
 
 
 
