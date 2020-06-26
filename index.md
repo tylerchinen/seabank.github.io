@@ -1,6 +1,3 @@
-# SeaBank
-A web-based banking application for a fictional currency. It includes features that allow users to create an account, sign in, deposit, withdraw, check their balance, wire transfer, and view their account history. 
-
 ## Table of Contents
 
 1. [Overview](#overview)
