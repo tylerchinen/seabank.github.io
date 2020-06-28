@@ -1,5 +1,4 @@
-# SeaBank
-A web-based banking application for a fictional currency. It includes features that allow users to create an account, sign in, deposit, withdraw, check their balance, wire transfer, and view their account history. 
+# SeaBank 
 
 ## Table of Contents
 
@@ -9,11 +8,40 @@ A web-based banking application for a fictional currency. It includes features t
 
 ## Overview
 
+SeaBank is a web-based banking application for a fictitious currency. It includes features that allow users to create an account, sign in, deposit, withdraw, check their balance, wire transfer, and view their account history.
 
-
-Our GitHub Repository can be found [here](https://github.com/tylerchinen/SeaCode-Bank-WebApp).
+Our GitHub Repository can be found **[here](https://github.com/tylerchinen/SeaCode-Bank-WebApp).**
 
 ## User Guide
+
+#### Specifications for Use
+To run our application you will need to have an IDE downloaded that is compatible with Javascript (we recommend IntelliJ Idea or Visual Studio Code), you will also need to download NPM, and Node.js.
+
+1. You will need an IDE in order to access the code for our application and to ultimately run it. 
+   - **Intellij Idea**
+     - If you are a student you can sign up for a [JetBrains student license here](https://www.jetbrains.com/community/education/#students) which will allow you to obtain a free student license for IntelliJ Idea.
+       - Next you will need to [download IntelliJ Idea](https://www.jetbrains.com/idea/download/#section=windows). [Here are more specific instructions for installation](http://courses.ics.hawaii.edu/ics314s19/morea/development-environments/experience-install-intellij-idea.html)
+   - **Visual Studio Code**
+     - Visual Studio Code is free to download and [instructions can be found here](https://code.visualstudio.com/docs/setup/windows).
+
+2. After you have an IDE that is compatible with Javascript you will need to download NPM and node.js in the terminal/command prompt. [Instructions can be found here](https://www.npmjs.com/get-npm).
+   - After installation you can use ``` node -v ``` and ``` node -v ``` in the terminal/command prompt to ensure that they are both installed. 
+   <img class="ui left floated image" src="npm-node-v.JPG" width="600">
+   The result should be the version that is downloaded.
+
+3. Once you have the proper tools installed you will then need to download our code from our [GitHub](https://github.com/tylerchinen/SeaCode-Bank-WebApp).
+   - 
+
+4. 
+```
+npm install
+```
+
+
+```
+npm start
+```
+
 
 #### Home Page & Cookies
 <img class="ui left floated image" src="seabank-home.PNG" width="600">
