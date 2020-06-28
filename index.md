@@ -26,16 +26,17 @@ To run our application you will need to have an IDE downloaded that is compatibl
 
 2. After you have an IDE that is compatible with Javascript you will need to download NPM and node.js in the terminal/command prompt. [Instructions can be found here](https://www.npmjs.com/get-npm).
    - After installation you can use ``` node -v ``` and ``` node -v ``` in the terminal/command prompt to ensure that they are both installed. The result should be the version that is downloaded.
-   <img class="ui middle floated image" src="npm-node-v.JPG" width="400">
+   <p align="center">
+   <img class="ui floated image" src="npm-node-v.JPG" width="400">
+   </p>
 
 3. Once you have the proper tools installed you will then need to download our code from our [GitHub](https://github.com/tylerchinen/SeaCode-Bank-WebApp) by clicking the *clone* button and then either *download in Desktop* or *download zip*. Depending on which IDE you chose the instruction differ slightly as follows:
-   <img class="ui middle floated image" src="withdesktop.JPG" width="300">
+   <p align="center"><img class="ui middle floated image" src="withdesktop.JPG" width="300"></p>
    - If you wish to use **download in desktop** you will need to [download GitHub Desktop](https://desktop.github.com/). Although this takes an extra step it will make accessing the code much easier. 
    - Once you have GitHub Desktop downloaded you will be able to *clone* and *download in desktop* which will open the GitHub Desktop.
    -  Next you will need to open either *IntelliJ Idea* or *Visual Studio Code*
       - **IntelliJ Idea**
-      
-      <img class="ui middle floated image" src="intellij.JPG" width="300">
+      <p align="center"><img class="ui floated image" src="intellij.JPG" width="300"></p>
           - Select *Open or Import* or just *File - Open* if IntelliJ is already open. 
           - Next you will need to navigate to the GitHub folder in your computer then the project folder which should be called *SeaCode-Bank-WebApp*.
           - Once selected you should be able to open the code view the entire framework of our application.
@@ -46,18 +47,18 @@ To run our application you will need to have an IDE downloaded that is compatibl
         - Once selected you should be able to open the code view the entire framework of our application.
    
    
-   <img class="ui middle floated image" src="withoutdesktop.JPG" width="300">
+   <p align="center"><img class="ui floated image" src="withoutdesktop.JPG" width="300"></p>
    - If you wish to use **download zip**
      - You will need to [unzip the file](https://www.windowscentral.com/how-zip-and-unzip-files-windows-10) to your location of choice.
      -  Next you will need to open either *IntelliJ Idea* or *Visual Studio Code*
-      
-      - **IntelliJ Idea**
+     
       <p align="center">
-      <img class="ui left floated image" src="intellij.JPG" width="300">
+      <img class="ui floated image" src="intellij.JPG" width="300">
       </p>
-          - Select *Open or Import* or just *File - Open* if IntelliJ is already open. 
-          - Next you will need to navigate to the folder/ location that you saved the unzipped file to then into the project folder which should be called *SeaCode-Bank-WebApp*.
-          - Once selected you should be able to open the code view the entire framework of our application.
+      - **IntelliJ Idea**
+        - Select *Open or Import* or just *File - Open* if IntelliJ is already open. 
+        - Next you will need to navigate to the folder/ location that you saved the unzipped file to then into the project folder which should be called *SeaCode-Bank-WebApp*.
+        - Once selected you should be able to open the code view the entire framework of our application.
         
       - **Visual Studio Code**
         - Similarly to IntelliJ you can navigate to *File - Open File -* then you will need to navigate to the folder/ location that you saved the unzipped file to then into the project folder which should be called *SeaCode-Bank-WebApp*.
@@ -65,19 +66,19 @@ To run our application you will need to have an IDE downloaded that is compatibl
 
 4. Now that you are able to access the project code locally you should be able to open the built-in terminals within the IDEs through
    - **IntelliJ Idea** - *View - Tools Window - Terminal* (IntelliJ may require you to activate this plugin feature through: file-settings-plugins then use the search bar to find terminal and click the checkbox to activate it, this will likely prompt you to restart IntelliJ as a result. However, upon restarting you should be able to access the terminal through the view tab shortcut.)
-     <img class="ui left floated image" src="intellij-terminal.JPG" width="400">
+     <p align="center"><img class="ui floated image" src="intellij-terminal.JPG" width="400"></p>
 
    - **Visual Studio Code** - *View - Terminal*
-     <img class="ui left floated image" src="vs-terminal.JPG" width="400">
+     <p align="center"><img class="ui floated image" src="vs-terminal.JPG" width="400"></p>
      
 5. With the terminal in the IDE that you have chosen you will need to navigate into the *webapp* folder by using the ```cd webapp``` command (this will open the frontend of our application).
-   <img class="ui left floated image" src="terminal-npm.JPG" width="400">
+   <p align="center"><img class="ui floated image" src="terminal-npm.JPG" width="400"></p>
     
    - Then you will be need to run ```npm install``` after this completes you will need to run ```npm start```
    - Once this completes the application should open in the *localhost:3000* 
 
 6. Once again, within the terminal in the IDE that you have chosen you will now need to add another terminal tab by using the *'+'* button (both are similar in either IntelliJ or Visual Studio. Then you will need to navigate into the *backend* folder by using the ```cd backend``` command (this will open the backend of our application).
-   <img class="ui left floated image" src="newtab.JPG" width="400">
+   <p align="center"><img class="ui left floated image" src="newtab.JPG" width="400"></p>
     
    - Then you will be need to run ```npm install``` again and after this completes you will need to run ```npm start```
    - Once this completes the terminal should prompt you stating that the *localhost:3000* is busy, select 'y' to allow the application to run on another host number.
