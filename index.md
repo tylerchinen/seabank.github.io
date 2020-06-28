@@ -29,19 +29,20 @@ To run our application you will need to have an IDE downloaded that is compatibl
    <img class="ui middle floated image" src="npm-node-v.JPG" width="400">
 
 3. Once you have the proper tools installed you will then need to download our code from our [GitHub](https://github.com/tylerchinen/SeaCode-Bank-WebApp) by clicking the *clone* button and then either *download in Desktop* or *download zip*. Depending on which IDE you chose the instruction differ slightly as follows:
-   <img class="ui left floated image" src="withdesktop.JPG" width="300">
+   <img class="ui middle floated image" src="withdesktop.JPG" width="300">
    - If you wish to use **download in desktop** you will need to [download GitHub Desktop](https://desktop.github.com/). Although this takes an extra step it will make accessing the code much easier. 
    - Once you have GitHub Desktop downloaded you will be able to *clone* and *download in desktop* which will open the GitHub Desktop.
    -  Next you will need to open either *IntelliJ Idea* or *Visual Studio Code*
       - **IntelliJ Idea**
-      <img class="ui left floated image" src="intellij.JPG" width="300">
-          - Select *Open or Import* or just *File | Open* if IntelliJ is already open. 
+      
+      <img class="ui middle floated image" src="intellij.JPG" width="300">
+          - Select *Open or Import* or just *File - Open* if IntelliJ is already open. 
           - Next you will need to navigate to the GitHub folder in your computer then the project folder which should be called *SeaCode-Bank-WebApp*.
           - Once selected you should be able to open the code view the entire framework of our application.
         
       - **Visual Studio Code**
         - Visual Studio will not require GitHub however, it makes finding the project much easier if you have already cloned and opened it GitHub Desktop.
-        - Similarly to IntelliJ you can navigate to *File| Open File |* then you will need to locate the GitHub folder in our computer then find the project folder labeled *SeaCode-Bank-WebApp*
+        - Similarly to IntelliJ you can navigate to *File-Open File-* then you will need to locate the GitHub folder in our computer then find the project folder labeled *SeaCode-Bank-WebApp*
         - Once selected you should be able to open the code view the entire framework of our application.
    
    
