@@ -63,7 +63,7 @@ To run our application you will need to have an IDE downloaded that is compatibl
         - Once selected you should be able to open the code view the entire framework of our application.
 
 4. Now that you are able to access the project code locally you should be able to open the built-in terminals within the IDEs through
-   - **IntelliJ Idea** - *View - Tools Window - Terminal* (IntelliJ may require an external 
+   - **IntelliJ Idea** - *View - Tools Window - Terminal* (IntelliJ may require you to activate this plugin feature through: file-settings-plugins then use the search bar to find terminal and click the checkbox to activate it, this will likely prompt you to restart IntelliJ as a result. However, upon restarting you should be able to access the terminal through the view tab shortcut.)
      <img class="ui left floated image" src="intellij-terminal.JPG" width="400">
 
    - **Visual Studio Code** - *View - Terminal*
