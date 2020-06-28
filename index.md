@@ -27,6 +27,7 @@ To run our application you will need to have an IDE downloaded that is compatibl
    <img class="ui left floated image" src="npm-node-v.JPG" width="600">
 
 3. Once you have the proper tools installed you will then need to download our code from our [GitHub](https://github.com/tylerchinen/SeaCode-Bank-WebApp).
+   <img class="ui left floated image" src="withoutdesktop.JPG" width="600">
    - 
 
 4. 
