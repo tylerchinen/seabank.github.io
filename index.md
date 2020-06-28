@@ -137,7 +137,7 @@ Upon successfully signing in or signing up you are re-routed to the dashboard wh
 
 
 ## Copyright
-You can click [here](terms.md) to view the Terms and Conditions for our project application.
+[You can click here to view the Terms and Conditions for our project application.](terms.md)
 
 
 ## Contact Us
