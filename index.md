@@ -24,7 +24,7 @@ To run our application you will need to have an IDE downloaded that is compatibl
 
 2. After you have an IDE that is compatible with Javascript you will need to download NPM and node.js in the terminal/command prompt. [Instructions can be found here](https://www.npmjs.com/get-npm).
    - After installation you can use ``` node -v ``` and ``` node -v ``` in the terminal/command prompt to ensure that they are both installed. The result should be the version that is downloaded.
-   <img class="ui left floated image" src="npm-node-v.JPG" width="600">
+   <img class="ui left floated image" src="npm-node-v.JPG" width="400">
 
 3. Once you have the proper tools installed you will then need to download our code from our [GitHub](https://github.com/tylerchinen/SeaCode-Bank-WebApp).
    <img class="ui left floated image" src="withoutdesktop.JPG" width="300">
