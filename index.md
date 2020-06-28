@@ -1,4 +1,5 @@
 # SeaBank 
+<p align="center"><img class="ui floated image" src="seabank-home.PNG" width="800"></p>
 ## Table of Contents
 
 1. [Overview](#overview)
@@ -35,11 +36,11 @@ To run our application you will need to have an IDE downloaded that is compatibl
    - If you wish to use **download in desktop** you will need to [download GitHub Desktop](https://desktop.github.com/). Although this takes an extra step it will make accessing the code much easier. 
    - Once you have GitHub Desktop downloaded you will be able to *clone* and *download in desktop* which will open the GitHub Desktop.
    -  Next you will need to open either *IntelliJ Idea* or *Visual Studio Code*
-      - **IntelliJ Idea**
       <p align="center"><img class="ui floated image" src="intellij.JPG" width="300"></p>
-          - Select *Open or Import* or just *File - Open* if IntelliJ is already open. 
-          - Next you will need to navigate to the GitHub folder in your computer then the project folder which should be called *SeaCode-Bank-WebApp*.
-          - Once selected you should be able to open the code view the entire framework of our application.
+      - **IntelliJ Idea**
+        - Select *Open or Import* or just *File - Open* if IntelliJ is already open. 
+        - Next you will need to navigate to the GitHub folder in your computer then the project folder which should be called *SeaCode-Bank-WebApp*.
+        - Once selected you should be able to open the code view the entire framework of our application.
         
       - **Visual Studio Code**
         - Visual Studio will not require GitHub however, it makes finding the project much easier if you have already cloned and opened it GitHub Desktop.
@@ -87,44 +88,48 @@ To run our application you will need to have an IDE downloaded that is compatibl
 
 ## Features
 #### Home Page & Cookies
-<img class="ui left floated image" src="seabank-home.PNG" width="600">
+<img class="ui floated image" src="seabank-home.PNG" width="600">
 <p>
 When you first visit our site you are taken to the home page. From this page you are able to use the Sign in or Sign Up buttons or you can use the dropdown menu in the upper right hand corner to do the same.
 </p>
-<img class="ui left floated image" src="seabank-cookies.PNG" width="600">
+<img class="ui floated image" src="seabank-cookies.PNG" width="600">
 <p>
 The first time you visit the home page you may notice the cookies pop-up prompt at the bottom of the screen. Once you click the *I understand* button the prompt will not show again.
 </p>
 
 #### Sign-In Page
-<img class="ui left floated image" src="seabank-signin.PNG" width="600">
+<p align="center"><img class="ui floated image" src="seabank-signin.PNG" width="600"></p>
 <p>
 On the sign-in page you are prompted to enter your email and password, and if you do not have an account you are able to click on the link that will re-route you to the Sign Up page. 
 </p>
 
 #### Sign-Up Page & Terms and Conditions
-<img class="ui left floated image" src="seabank-signup.PNG" width="600">
+<p align="center"><img class="ui floated image" src="seabank-signup.PNG" width="600"></p>
 <p>
 In order to sign up you must fill out the field prompts and accept the terms and conditions. Additionally if you click on the *View Terms and Conditions* button you are able to see the terms in a pop-up window as shown below. 
 </p>
-<img class="ui left floated image" src="seabank-terms.PNG" width="600">
+<p align="center"><img class="ui floated image" src="seabank-terms.PNG" width="600"></p>
 
 #### Dashboard
-<img class="ui left floated image" src="seabank-dashboard.PNG" width="600">
+<p align="center"><img class="ui floated image" src="seabank-dashboard.PNG" width="600"></p>
 <p>
 Upon successfully signing in or signing up you are re-routed to the dashboard which presents you with the functionalities available within our banking system. These functionalities include being able to deposit, withdraw, and wire funds as well as view your account history. 
 </p>
 
 - #### Deposit
+<p align="center"></p>
 <p></p>
 
 - #### Withdraw
+<p align="center"></p>
 <p></p>
 
 - #### Wire Funds
+<p align="center"></p>
 <p></p>
 
 - #### Account History
+<p align="center"></p>
 <p></p>
 
 
