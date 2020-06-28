@@ -1,5 +1,5 @@
 # SeaBank 
-<p align="center"><img class="ui floated image" src="seabank-home.PNG" width="800"></p>
+<img class="ui fluid image" src="seabank-home.PNG" width="800">
 ## Table of Contents
 
 1. [Overview](#overview)
