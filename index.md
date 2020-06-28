@@ -52,8 +52,9 @@ To run our application you will need to have an IDE downloaded that is compatibl
      -  Next you will need to open either *IntelliJ Idea* or *Visual Studio Code*
       
       - **IntelliJ Idea**
-     
+      <p align="center">
       <img class="ui left floated image" src="intellij.JPG" width="300">
+      </p>
           - Select *Open or Import* or just *File - Open* if IntelliJ is already open. 
           - Next you will need to navigate to the folder/ location that you saved the unzipped file to then into the project folder which should be called *SeaCode-Bank-WebApp*.
           - Once selected you should be able to open the code view the entire framework of our application.
