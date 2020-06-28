@@ -12,8 +12,7 @@ SeaBank is a web-based banking application for a fictitious currency. It include
 The GitHub Repository for our application can be found **[here](https://github.com/tylerchinen/SeaCode-Bank-WebApp).**
 
 ## User Guide
-
-#### Specifications for Use
+### Specifications for Use
 To run our application you will need to have an IDE downloaded that is compatible with Javascript (we recommend IntelliJ Idea or Visual Studio Code), you will also need to download NPM, and Node.js.
 
 1. You will need an IDE in order to access the code for our application and to ultimately run it. 
