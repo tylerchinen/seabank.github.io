@@ -26,7 +26,7 @@ To run our application you will need to have an IDE downloaded that is compatibl
 
 2. After you have an IDE that is compatible with Javascript you will need to download NPM and node.js in the terminal/command prompt. [Instructions can be found here](https://www.npmjs.com/get-npm).
    - After installation you can use ``` node -v ``` and ``` node -v ``` in the terminal/command prompt to ensure that they are both installed. The result should be the version that is downloaded.
-   <img class="ui left floated image" src="npm-node-v.JPG" width="400">
+   <img class="ui middle floated image" src="npm-node-v.JPG" width="400">
 
 3. Once you have the proper tools installed you will then need to download our code from our [GitHub](https://github.com/tylerchinen/SeaCode-Bank-WebApp) by clicking the *clone* button and then either *download in Desktop* or *download zip*. Depending on which IDE you chose the instruction differ slightly as follows:
    <img class="ui left floated image" src="withdesktop.JPG" width="300">
@@ -45,25 +45,27 @@ To run our application you will need to have an IDE downloaded that is compatibl
         - Once selected you should be able to open the code view the entire framework of our application.
    
    
-   <img class="ui left floated image" src="withoutdesktop.JPG" width="300">
+   <img class="ui middle floated image" src="withoutdesktop.JPG" width="300">
    - If you wish to use **download zip**
      - You will need to [unzip the file](https://www.windowscentral.com/how-zip-and-unzip-files-windows-10) to your location of choice.
      -  Next you will need to open either *IntelliJ Idea* or *Visual Studio Code*
+      
       - **IntelliJ Idea**
+     
       <img class="ui left floated image" src="intellij.JPG" width="300">
-          - Select *Open or Import* or just *File | Open* if IntelliJ is already open. 
+          - Select *Open or Import* or just *File - Open* if IntelliJ is already open. 
           - Next you will need to navigate to the folder/ location that you saved the unzipped file to then into the project folder which should be called *SeaCode-Bank-WebApp*.
           - Once selected you should be able to open the code view the entire framework of our application.
         
       - **Visual Studio Code**
-        - Similarly to IntelliJ you can navigate to *File | Open File |* then you will need to navigate to the folder/ location that you saved the unzipped file to then into the project folder which should be called *SeaCode-Bank-WebApp*.
+        - Similarly to IntelliJ you can navigate to *File - Open File -* then you will need to navigate to the folder/ location that you saved the unzipped file to then into the project folder which should be called *SeaCode-Bank-WebApp*.
         - Once selected you should be able to open the code view the entire framework of our application.
 
 4. Now that you are able to access the project code locally you should be able to open the built-in terminals within the IDEs through
-   - **IntelliJ Idea** - *View | Tools Window | Terminal* (IntelliJ may require an external 
+   - **IntelliJ Idea** - *View - Tools Window - Terminal* (IntelliJ may require an external 
      <img class="ui left floated image" src="intellij-terminal.JPG" width="400">
 
-   - **Visual Studio Code** - *View | Terminal*
+   - **Visual Studio Code** - *View - Terminal*
      <img class="ui left floated image" src="vs-terminal.JPG" width="400">
      
 5. With the terminal in the IDE that you have chosen you will need to navigate into the *webapp* folder by using the ```cd webapp``` command (this will open the frontend of our application).
