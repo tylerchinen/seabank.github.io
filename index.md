@@ -89,11 +89,11 @@ To run our application you will need to have an IDE downloaded that is compatibl
 
 ## Features
 #### Home Page & Cookies
-<img class="ui floated image" src="seabank-home.PNG" width="600">
+<p align="center"><img class="ui floated image" src="seabank-home.PNG" width="600"></p>
 <p>
 When you first visit our site you are taken to the home page. From this page you are able to use the Sign in or Sign Up buttons or you can use the dropdown menu in the upper right hand corner to do the same.
 </p>
-<img class="ui floated image" src="seabank-cookies.PNG" width="600">
+<p align="center"><img class="ui floated image" src="seabank-cookies.PNG" width="600"></p>
 <p>
 The first time you visit the home page you may notice the cookies pop-up prompt at the bottom of the screen. Once you click the *I understand* button the prompt will not show again.
 </p>
