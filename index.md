@@ -5,6 +5,8 @@
 2. [User Guide](#user-guide)
    2. [Specifications for Use](#specifications-for-use)
    2. [Features](#features)
+   2. [Security Notes](#security-notes)
+   2. [Copyright](#copyright)
 3. [Contact Us](#contact-us)
 
 ## Overview
@@ -130,6 +132,12 @@ Upon successfully signing in or signing up you are re-routed to the dashboard wh
 - #### Account History
 <p align="center"></p>
 <p></p>
+
+## Security Notes
+
+
+## Copyright
+You can click [here](terms.md) to view the Terms and Conditions for our project application.
 
 
 ## Contact Us
