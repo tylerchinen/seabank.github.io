@@ -1,7 +1,7 @@
 # SeaBank 
 ## Table of Contents
 
-1. [Overview](#overview)
+1. [Home](#home)
 2. [User Guide](#user-guide)
    2. [Specifications for Use](#specifications-for-use)
    2. [Features](#features)
@@ -9,7 +9,10 @@
    2. [Copyright](#copyright)
 3. [Contact Us](#contact-us)
 
-## Overview
+## Home
+
+<p align="center"><img class="ui floated image" src="seabank-home.PNG" width="600"></p>
+
 SeaBank is a web-based banking application for a fictitious currency. It includes features that allow users to create an account, sign in, deposit, withdraw, check their balance, wire transfer, and view their account history. The frontend component is a React app that handles user UI and inputs. Each user actions from the frontend are sent to the NodeJS backend that conforms to REST APIs.
 
 The GitHub Repository for our application can be found **[here](https://github.com/tylerchinen/SeaCode-Bank-WebApp).**
