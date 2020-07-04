@@ -118,20 +118,20 @@ Upon successfully signing in or signing up you are re-routed to the dashboard wh
 </p>
 
 - #### Deposit
-<p align="center"><img class="ui floated image" src="deposit.PNG" width="600"></p>
-<p></p>
+<p align="center"><img class="ui floated image" src="deposit.png" width="600"></p>
+<p>This page is accessible through the dashboard and allows the user to deposit funds into their account by first selecting the form that their funds are in. Their options are either cash or check. Then they enter the amount that will be deposited and submit it with the confirm button.</p>
 
 - #### Withdraw
-<p align="center"><img class="ui floated image" src="withdraw.PNG" width="600"></p>
-<p></p>
+<p align="center"><img class="ui floated image" src="withdraw.png" width="600"></p>
+<p>This page is accessible through the dashboard and allows the user to withdraw funds from their account by entering it within the textbox and submitting the request with the confirm buton.</p>
 
 - #### Wire Funds
-<p align="center"><img class="ui floated image" src="wirefunds.PNG" width="600"></p>
-<p></p>
+<p align="center"><img class="ui floated image" src="wirefunds.png" width="600"></p>
+<p>This page is accessible through the dashboard and allows the user to wire funds to another party by entering the intended receiving party's email and then the amount that they wish to wire to them and it is confimed with the submit button.</p>
 
 - #### Account History
-<p align="center"><img class="ui floated image" src="accounthist.PNG" width="600"></p>
-<p></p>
+<p align="center"><img class="ui floated image" src="accounthist.png" width="600"></p>
+<p>This page is accessible through the dashboard and allows the user to view the history on their account such as when and how much they have withdrawn, deposited, and wired to other accounts. </p>
 
 ## Security Notes
 One of the most obvious concerns pertaining to security for our program are that it is open source and thus since our code can be widely distributed it is possible that our code could be maliciously adapted. 
