@@ -134,7 +134,12 @@ Upon successfully signing in or signing up you are re-routed to the dashboard wh
 <p>This page is accessible through the dashboard and allows the user to view the history on their account such as when and how much they have withdrawn, deposited, and wired to other accounts. </p>
 
 ## Security Notes
-One of the most obvious concerns pertaining to security for our program are that it is open source and thus since our code can be widely distributed it is possible that our code could be maliciously adapted. 
+As our project was being produced we became aware of some security concerns. Since it was produced in a limited time frame we were not able to actively resolve all of them before our project was released. Thus, here are some of the security concerns that we are aware of and have encountered. 
+- One of the most obvious concerns pertaining to security for our program are that it is open source and thus our code can be widely distributed it is possible that our code could be maliciously adapted/ corrupted and redistributed.
+- Another concern is that the primary keys for the user database are the user's emails and so accounts with duplicate, usernames, and account numbers can be created.
+- It is possible that our app is vulnerable to spoofing if users falsify the information that they input for their account.
+- Since our app does not have a domain/ doesn't use https we did not utilize certificate services.
+- 
 
 ## Copyright
 [You can click here to view the Terms and Conditions for our project application.](terms.md)
