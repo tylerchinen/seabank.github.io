@@ -50,8 +50,7 @@ To run our application you will need to have an IDE downloaded that is compatibl
    
    
    <p align="center"><img class="ui floated image" src="withoutdesktop.JPG" width="300"></p>
-   - If you wish to use **download zip**
-     - You will need to [unzip the file](https://www.windowscentral.com/how-zip-and-unzip-files-windows-10) to your location of choice.
+   - If you wish to use **download zip** you will need to [unzip the file](https://www.windowscentral.com/how-zip-and-unzip-files-windows-10) to your location of choice.
      -  Next you will need to open either *IntelliJ Idea* or *Visual Studio Code*
      
       <p align="center">
@@ -76,7 +75,7 @@ To run our application you will need to have an IDE downloaded that is compatibl
 5. With the terminal in the IDE that you have chosen you will need to navigate into the *webapp* folder by using the ```cd webapp``` command (this will open the frontend of our application).
    <p align="center"><img class="ui floated image" src="terminal-npm.JPG" width="400"></p>
     
-   - Then you will be need to run ```npm install``` after this completes you will need to run ```npm start```
+   - Then you will need to run ```npm install``` after this completes you will need to run ```npm start```
    - Once this completes the application should open in the *localhost:3000* 
 
 6. Once again, within the terminal in the IDE that you have chosen you will now need to add another terminal tab by using the *'+'* button (both are similar in either IntelliJ or Visual Studio. Then you will need to navigate into the *backend* folder by using the ```cd backend``` command (this will open the backend of our application).
