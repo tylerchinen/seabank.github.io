@@ -139,7 +139,9 @@ As our project was being produced we became aware of some security concerns. Sin
 - Another concern is that the primary keys for the user database are the user's emails and so accounts with duplicate, usernames, and account numbers can be created.
 - It is possible that our app is vulnerable to spoofing if users falsify the information that they input for their account.
 - Since our app does not have a domain/ doesn't use https we did not utilize certificate services.
-- 
+- The user model has some fields which are unused which means that it will not pass an attack surface review.
+- Additionally, our secrets folder is committed to the repo which means that the session secrets and mongodb passwords are listed in plain text within the repository.
+- We also hardcoded in our server requests for both the font end and back end which will make any future domain changes difficult for system administrators. 
 
 ## Copyright
 [You can click here to view the Terms and Conditions for our project application.](terms.md)
