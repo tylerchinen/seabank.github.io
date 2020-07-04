@@ -118,19 +118,19 @@ Upon successfully signing in or signing up you are re-routed to the dashboard wh
 </p>
 
 - #### Deposit
-<p align="center"></p>
+<p align="center"><img class="ui floated image" src="deposit.PNG" width="600"></p>
 <p></p>
 
 - #### Withdraw
-<p align="center"></p>
+<p align="center"><img class="ui floated image" src="withdraw.PNG" width="600"></p>
 <p></p>
 
 - #### Wire Funds
-<p align="center"></p>
+<p align="center"><img class="ui floated image" src="wirefunds.PNG" width="600"></p>
 <p></p>
 
 - #### Account History
-<p align="center"></p>
+<p align="center"><img class="ui floated image" src="accounthist.PNG" width="600"></p>
 <p></p>
 
 ## Security Notes
