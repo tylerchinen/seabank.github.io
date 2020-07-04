@@ -32,7 +32,7 @@ To run our application you will need to have an IDE downloaded that is compatibl
    <img class="ui floated image" src="npm-node-v.JPG" width="400">
    </p>
 
-3. Once you have the proper tools installed you will then need to download our code from our [GitHub](https://github.com/tylerchinen/SeaCode-Bank-WebApp) by clicking the *clone* button and then either *download in Desktop* or *download zip*. Depending on which IDE you chose the instruction differ slightly as follows:
+3. Once you have the proper tools installed you will then need to download our code from our [GitHub](https://github.com/tylerchinen/SeaCode-Bank-WebApp) by clicking the *clone* button and then either *download in Desktop* or *download zip*. Depending on which IDE you chose the instructions differ slightly as follows:
    <p align="center"><img class="ui middle floated image" src="withdesktop.JPG" width="300"></p>
    - If you wish to use **download in desktop** you will need to [download GitHub Desktop](https://desktop.github.com/). Although this takes an extra step it will make accessing the code much easier. 
    - Once you have GitHub Desktop downloaded you will be able to *clone* and *download in desktop* which will open the GitHub Desktop.
