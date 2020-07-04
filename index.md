@@ -86,9 +86,8 @@ To run our application you will need to have an IDE downloaded that is compatibl
     
    - Then you will need to run ```npm install``` again and after this completes you will need to run ```npm start```
    - Once this completes the terminal should prompt you stating that the *localhost:3000* is busy, select 'y' to allow the application to run on another host number.
-   - You should now have our application up and running and can then login with the email: ```jim@gmail.com``` and password: ```changeme``` - Happy Banking!
-
-
+   - You should now have our application up and running and can then login with the email: "jim@gmail.com" and password: "changeme" - Happy Banking!
+   
 ## Features
 #### Home Page & Cookies
 <p align="center"><img class="ui floated image" src="seabank-home.PNG" width="600"></p>
