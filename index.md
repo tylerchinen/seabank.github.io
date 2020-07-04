@@ -154,7 +154,7 @@ As our project was being produced we became aware of some security concerns. Sin
 ### Group Members
 
 #### Patima Poochai: 
-ppoochai@hawaii.edu
+Direct Message through Github @patimapoochai
 
 #### Tyler Chinen: 
 tlc852@hawaii.edu
