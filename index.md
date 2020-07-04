@@ -151,14 +151,10 @@ As our project was being produced we became aware of some security concerns. Sin
 
 ### Group Members
 
-#### Patima Poochai
-ppoochai@hawaii.edu
+#### Patima Poochai: ppoochai@hawaii.edu
 
-#### Tyler Chinen
-tlc852@hawaii.edu
+#### Tyler Chinen: tlc852@hawaii.edu
 
-#### Mirabela Medallon
-mirabela@hawaii.edu
+#### Mirabela Medallon: mirabela@hawaii.edu
 
-#### Wei Leong Hiew
-hiew@hawaii.edu
+#### Wei Leong Hiew: hiew@hawaii.edu
