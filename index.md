@@ -5,6 +5,7 @@
 2. [User Guide](#user-guide)
    2. [Specifications for Use](#specifications-for-use)
    2. [Features](#features)
+   2. [Default Credentials](#default-credentials)
    2. [Security Notes](#security-notes)
    2. [Copyright](#copyright)
 3. [Contact Us](#contact-us)
@@ -86,6 +87,11 @@ To run our application you will need to have an IDE downloaded that is compatibl
    - Then you will need to run ```npm install``` again and after this completes you will need to run ```npm start```
    - Once this completes the terminal should prompt you stating that the *localhost:3000* is busy, select 'y' to allow the application to run on another host number.
    - You should now have our application up and running and can then login with the email: ```jim@gmail.com``` and password: ```changeme``` - Happy Banking!
+
+#### Default Credentials
+It is also notable that at this point our application requires the use of default account credentials as mentioned above and as follows:
+**Email:** ```jim@gmail.com```
+**Password:** ```changeme```
    
 ## Features
 #### Home Page & Cookies
