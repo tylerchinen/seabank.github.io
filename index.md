@@ -11,6 +11,9 @@
 
 ## Overview
 
+<p align="center"><img class="ui floated large image" src="seabank-home.PNG" width="600"></p>
+<p>
+
 SeaBank is a web-based banking application for a fictitious currency. It includes features that allow users to create an account, sign in, deposit, withdraw, check their balance, wire transfer, and view their account history.
 
 The GitHub Repository for our application can be found **[here](https://github.com/tylerchinen/SeaCode-Bank-WebApp).**
