@@ -1,7 +1,7 @@
 # SeaBank 
 ## Table of Contents
 
-1. [Home](#home)
+1. [Overview](#overview)
 2. [User Guide](#user-guide)
    2. [Specifications for Use](#specifications-for-use)
    2. [Features](#features)
@@ -9,7 +9,7 @@
    2. [Copyright](#copyright)
 3. [Contact Us](#contact-us)
 
-## Home
+## Overview
 
 <p align="center"><img class="ui floated large image" src="seabank-home.PNG" width="600"></p>
 <p>
