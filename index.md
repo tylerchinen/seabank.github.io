@@ -1,7 +1,7 @@
 # SeaBank 
 ## Table of Contents
 
-1. [Overview](#overview)
+1. [Home](#home)
 2. [User Guide](#user-guide)
    2. [Specifications for Use](#specifications-for-use)
    2. [Features](#features)
@@ -86,7 +86,7 @@ To run our application you will need to have an IDE downloaded that is compatibl
     
    - Then you will need to run ```npm install``` again and after this completes you will need to run ```npm start```
    - Once this completes the terminal should prompt you stating that the *localhost:3000* is busy, select 'y' to allow the application to run on another host number.
-   - You should now have our application up and running - Happy Banking!
+   - You should now have our application up and running and can then login with the email: ```jim@gmail.com``` and password ```changeme``` - Happy Banking!
 
 
 ## Features
