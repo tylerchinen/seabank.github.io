@@ -85,7 +85,7 @@ To run our application you will need to have an IDE downloaded that is compatibl
     
    - Then you will need to run ```npm install``` again and after this completes you will need to run ```npm start```
    - Once this completes the terminal should prompt you stating that the *localhost:3000* is busy, select 'y' to allow the application to run on another host number.
-   - You should now have our application up and running and can then login with the email: "jim@gmail.com" and password: "changeme" - Happy Banking!
+   - You should now have our application up and running and can then login with the email: ```jim@gmail.com``` and password: ```changeme``` - Happy Banking!
    
 ## Features
 #### Home Page & Cookies
@@ -136,6 +136,7 @@ Upon successfully signing in or signing up you are re-routed to the dashboard wh
 ## Security Notes
 As our project was being produced we became aware of some security concerns. Since it was produced in a limited time frame we were not able to actively resolve all of them before our project was released. Thus, here are some of the security concerns that we are aware of and have encountered. 
 - One of the most obvious concerns pertaining to security for our program are that it is open source and thus our code can be widely distributed it is possible that our code could be maliciously adapted/ corrupted and redistributed.
+- Another obvious concern is that our sign in and sign up functions are buggy and tempermental. As of now the only way to access most of the functionality for our webapp is by logging in as a pre-made user (i.e. email: jim@gmail.com with the password: changeme)
 - Another concern is that the primary keys for the user database are the user's emails and so accounts with duplicate, usernames, and account numbers can be created.
 - It is possible that our app is vulnerable to spoofing if users falsify the information that they input for their account.
 - Since our app does not have a domain/ doesn't use https we did not utilize certificate services.
