@@ -134,7 +134,7 @@ Upon successfully signing in or signing up you are re-routed to the dashboard wh
 <p></p>
 
 ## Security Notes
-
+One of the most obvious concerns pertaining to security for our program are that it is open source and thus since our code can be widely distributed it is possible that our code could be maliciously adapted. 
 
 ## Copyright
 [You can click here to view the Terms and Conditions for our project application.](terms.md)
